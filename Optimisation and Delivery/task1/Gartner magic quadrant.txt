@@ -1,0 +1,44 @@
+Summary
+Financial close solutions help the office of finance manage the financial close and apply appropriate controls throughout the accounting cycle. Application leaders should use this Magic Quadrant to identify vendors that are a good match for their financial close needs.
+
+Published: 21 October 2019
+
+ID: G00370021
+
+Analyst(s): Robert Anderson ,  John Van Decker ,  Greg Leiter
+
+Table Of Contents
+Market Definition/Description
+
+Magic Quadrant
+	Vendor Strengths and Cautions
+		BlackLine
+		Board International
+		CCH Tagetik
+		FloQast
+		Host Analytics
+		OneStream Software
+		Oracle
+		Trintech (Adra)
+		Trintech (Cadency)
+		Workiva
+	Vendors Added and Dropped
+		Added
+		Dropped
+
+Inclusion and Exclusion Criteria
+Evaluation Criteria
+	Ability to Execute
+	Completeness of Vision
+	Quadrant Descriptions
+		Leaders
+		Challengers
+		Visionaries
+		Niche Players
+
+Context
+Market Overview
+Gartner Recommended Reading
+
+	Ability to Execute
+	Completeness of Vision
